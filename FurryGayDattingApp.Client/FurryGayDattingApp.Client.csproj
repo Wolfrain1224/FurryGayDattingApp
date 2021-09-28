@@ -8,4 +8,12 @@
       <Folder Include="Data" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Blazored.Modal" Version="6.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FurryGayDattingApp.Common\FurryGayDattingApp.Common.csproj" />
+    </ItemGroup>
+
 </Project>
