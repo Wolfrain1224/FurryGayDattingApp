@@ -104,3 +104,7 @@ F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\obj\Debug\net5.0\FurryGayDattingApp.Client.pdb
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\obj\Debug\net5.0\FurryGayDattingApp.Client.genruntimeconfig.cache
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\obj\Debug\net5.0\FurryGayDattingApp.Client.csproj.CopyComplete
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\bin\Debug\net5.0\Blazored.Modal.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\bin\Debug\net5.0\FurryGayDattingApp.Common.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Client\bin\Debug\net5.0\FurryGayDattingApp.Common.pdb

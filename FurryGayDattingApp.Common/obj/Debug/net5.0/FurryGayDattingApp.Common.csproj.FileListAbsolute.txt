@@ -1,0 +1,12 @@
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\bin\Debug\net5.0\FurryGayDattingApp.Common.deps.json
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\bin\Debug\net5.0\FurryGayDattingApp.Common.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\bin\Debug\net5.0\ref\FurryGayDattingApp.Common.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\bin\Debug\net5.0\FurryGayDattingApp.Common.pdb
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.csproj.AssemblyReference.cache
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.AssemblyInfoInputs.cache
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.AssemblyInfo.cs
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.csproj.CoreCompileInputs.cache
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\ref\FurryGayDattingApp.Common.dll
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Common\obj\Debug\net5.0\FurryGayDattingApp.Common.pdb

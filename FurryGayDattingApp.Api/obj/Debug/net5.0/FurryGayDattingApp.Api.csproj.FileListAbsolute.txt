@@ -27,3 +27,4 @@ F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Api\obj\Debug\net5.0\ref\FurryGayDattingApp.Api.dll
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Api\obj\Debug\net5.0\FurryGayDattingApp.Api.pdb
 F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Api\obj\Debug\net5.0\FurryGayDattingApp.Api.genruntimeconfig.cache
+F:\CyberDragon Studio\C# Programs\Projects\FurryGayDattingApp\FurryGayDattingApp.Api\bin\Debug\net5.0\Dapper.dll
